@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\bin\Debug\conversion de masa.exe.config
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\bin\Debug\conversion de masa.exe
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\bin\Debug\conversion de masa.pdb
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\bin\Debug\conversion de masa.xml
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion de masa.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion_de_masa.Form1.resources
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion_de_masa.Resources.resources
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion de masa.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion de masa.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion de masa.exe
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion de masa.xml
+C:\Users\ABREGO\Desktop\conversion de masa\conversion de masa\conversion de masa\obj\Debug\conversion de masa.pdb
