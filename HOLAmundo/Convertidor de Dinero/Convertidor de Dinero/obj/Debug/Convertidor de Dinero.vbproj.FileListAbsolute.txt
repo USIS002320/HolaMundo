@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\bin\Debug\Convertidor de Dinero.exe.config
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\bin\Debug\Convertidor de Dinero.exe
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\bin\Debug\Convertidor de Dinero.pdb
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\bin\Debug\Convertidor de Dinero.xml
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor de Dinero.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor_de_Dinero.Form1.resources
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor_de_Dinero.Resources.resources
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor de Dinero.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor de Dinero.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor de Dinero.exe
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor de Dinero.xml
+C:\Users\ABREGO\Desktop\Nueva carpeta (2)\Convertidor de Dinero\Convertidor de Dinero\obj\Debug\Convertidor de Dinero.pdb
