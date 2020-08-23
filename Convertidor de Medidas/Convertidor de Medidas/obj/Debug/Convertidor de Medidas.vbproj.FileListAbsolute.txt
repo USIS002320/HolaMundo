@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\bin\Debug\Convertidor de Medidas.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\bin\Debug\Convertidor de Medidas.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\bin\Debug\Convertidor de Medidas.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\bin\Debug\Convertidor de Medidas.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor de Medidas.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor_de_Medidas.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor_de_Medidas.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor de Medidas.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor de Medidas.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor de Medidas.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor de Medidas.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\Convertidor de Medidas\Convertidor de Medidas\obj\Debug\Convertidor de Medidas.pdb
