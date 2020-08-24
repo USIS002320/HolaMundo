@@ -1,5 +1,6 @@
-﻿Public Class Form1
+﻿Public Class Convertidor
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
         If cbxentrada.Text = "Milimetros" And cbxsalida.Text = "Milimetros" Then
             lblr.Text = Val(txtvalor.Text)
         ElseIf cbxentrada.Text = "Milimetros" And cbxsalida.Text = "Centimetros" Then

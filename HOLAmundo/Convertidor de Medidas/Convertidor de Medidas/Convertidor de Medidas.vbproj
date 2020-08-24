@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A840B4D9-CA02-4001-9481-7A7DD835A1EA}</ProjectGuid>
+    <ProjectGuid>{42B34C7C-9D95-4282-A950-2DB84551A9E3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>Convertidor_de_Medidas.My.MyApplication</StartupObject>
     <RootNamespace>Convertidor_de_Medidas</RootNamespace>
