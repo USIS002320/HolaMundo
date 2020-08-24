@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\bin\Debug\Conversor del Tiempo.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\bin\Debug\Conversor del Tiempo.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\bin\Debug\Conversor del Tiempo.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\bin\Debug\Conversor del Tiempo.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor del Tiempo.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor_del_Tiempo.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor_del_Tiempo.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor del Tiempo.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor del Tiempo.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor del Tiempo.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor del Tiempo.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conversion del Tiempo\Conversor del Tiempo\Conversor del Tiempo\obj\Debug\Conversor del Tiempo.pdb
