@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\bin\Debug\Convertidor de Volumen.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\bin\Debug\Convertidor de Volumen.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\bin\Debug\Convertidor de Volumen.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\bin\Debug\Convertidor de Volumen.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor de Volumen.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor_de_Volumen.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor_de_Volumen.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor de Volumen.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor de Volumen.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor de Volumen.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor de Volumen.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Conertidor de Volumen\Convertidor de Volumen\Convertidor de Volumen\obj\Debug\Convertidor de Volumen.pdb
