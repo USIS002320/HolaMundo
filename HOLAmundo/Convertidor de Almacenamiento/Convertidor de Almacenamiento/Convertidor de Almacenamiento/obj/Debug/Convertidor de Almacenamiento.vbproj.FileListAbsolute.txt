@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\bin\Debug\Convertidor de Almacenamiento.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\bin\Debug\Convertidor de Almacenamiento.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\bin\Debug\Convertidor de Almacenamiento.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\bin\Debug\Convertidor de Almacenamiento.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor de Almacenamiento.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor_de_Almacenamiento.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor_de_Almacenamiento.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor de Almacenamiento.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor de Almacenamiento.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor de Almacenamiento.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor de Almacenamiento.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de Almacenamiento\Convertidor de Almacenamiento\Convertidor de Almacenamiento\obj\Debug\Convertidor de Almacenamiento.pdb
