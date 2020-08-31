@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\bin\Debug\Numero Romanos.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\bin\Debug\Numero Romanos.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\bin\Debug\Numero Romanos.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\bin\Debug\Numero Romanos.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero Romanos.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero_Romanos.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero_Romanos.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero Romanos.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero Romanos.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero Romanos.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero Romanos.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Numeros Romanos\Numero Romanos\Numero Romanos\obj\Debug\Numero Romanos.pdb
