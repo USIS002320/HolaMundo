@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\bin\Debug\Interes simple y compuesto.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\bin\Debug\Interes simple y compuesto.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\bin\Debug\Interes simple y compuesto.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\bin\Debug\Interes simple y compuesto.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes simple y compuesto.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes_simple_y_compuesto.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes_simple_y_compuesto.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes simple y compuesto.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes simple y compuesto.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes simple y compuesto.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes simple y compuesto.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Interes simple y compuesto\Interes simple y compuesto\Interes simple y compuesto\obj\Debug\Interes simple y compuesto.pdb
