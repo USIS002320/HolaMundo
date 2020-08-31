@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9CC2D491-C68B-45DB-A953-1EC9AD6E0947}</ProjectGuid>
+    <ProjectGuid>{10CBDC87-5015-4A68-8314-9D328A147F2B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Convertidor_semanal.My.MyApplication</StartupObject>
-    <RootNamespace>Convertidor_semanal</RootNamespace>
-    <AssemblyName>Convertidor semanal</AssemblyName>
+    <StartupObject>Numeros_pares_e_impares.My.MyApplication</StartupObject>
+    <RootNamespace>Numeros_pares_e_impares</RootNamespace>
+    <AssemblyName>Numeros pares e impares</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Convertidor semanal.xml</DocumentationFile>
+    <DocumentationFile>Numeros pares e impares.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Convertidor semanal.xml</DocumentationFile>
+    <DocumentationFile>Numeros pares e impares.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

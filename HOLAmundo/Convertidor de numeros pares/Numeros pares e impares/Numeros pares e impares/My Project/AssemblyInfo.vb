@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("Convertidor semanal")>
+<Assembly: AssemblyTitle("Numeros pares e impares")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("HP Inc.")>
-<Assembly: AssemblyProduct("Convertidor semanal")>
+<Assembly: AssemblyProduct("Numeros pares e impares")>
 <Assembly: AssemblyCopyright("Copyright © HP Inc. 2020")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-<Assembly: Guid("5af71ee4-b2fa-4225-bb3c-ef057ae6ea4b")>
+<Assembly: Guid("f2de28fa-7341-4e41-9d29-74e9fb6875fd")>
 
 ' La información de versión de un ensamblado consta de los cuatro valores siguientes:
 '

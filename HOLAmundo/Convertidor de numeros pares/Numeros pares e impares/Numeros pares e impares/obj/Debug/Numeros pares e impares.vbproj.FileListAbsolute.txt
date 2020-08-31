@@ -1,0 +1,12 @@
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\bin\Debug\Numeros pares e impares.exe.config
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\bin\Debug\Numeros pares e impares.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\bin\Debug\Numeros pares e impares.pdb
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\bin\Debug\Numeros pares e impares.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros pares e impares.vbprojAssemblyReference.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros_pares_e_impares.Form1.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros_pares_e_impares.Resources.resources
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros pares e impares.vbproj.GenerateResource.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros pares e impares.vbproj.CoreCompileInputs.cache
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros pares e impares.exe
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros pares e impares.xml
+C:\Users\ABREGO\Desktop\TAREA DE GITHOB\HOLAmundo\Convertidor de numeros pares\Numeros pares e impares\Numeros pares e impares\obj\Debug\Numeros pares e impares.pdb

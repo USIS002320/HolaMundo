@@ -1,6 +1,5 @@
 ﻿Public Class Form1
     Private Sub btnProcesar_Click(sender As Object, e As EventArgs) Handles btnProcesar.Click
-
         lstEjercicios.Items.Clear()
 
         lstEjercicios.Items.Add("Numero pares del 1 al 20")
@@ -21,7 +20,6 @@
         Else
             MessageBox.Show("El numero: " + num + ", es impar")
         End If
-
     End Sub
 
     Private Sub btnPrimo_Click(sender As Object, e As EventArgs) Handles btnPrimo.Click
@@ -61,7 +59,6 @@
             End If
         Next
     End Sub
-
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         End

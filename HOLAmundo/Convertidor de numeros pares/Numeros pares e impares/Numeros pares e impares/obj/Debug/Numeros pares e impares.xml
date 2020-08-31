@@ -2,21 +2,21 @@
 <doc>
 <assembly>
 <name>
-Convertidor semanal
+Numeros pares e impares
 </name>
 </assembly>
 <members>
-<member name="T:Convertidor_semanal.My.Resources.Resources">
+<member name="T:Numeros_pares_e_impares.My.Resources.Resources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
-<member name="P:Convertidor_semanal.My.Resources.Resources.ResourceManager">
+<member name="P:Numeros_pares_e_impares.My.Resources.Resources.ResourceManager">
 <summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
 </member>
-<member name="P:Convertidor_semanal.My.Resources.Resources.Culture">
+<member name="P:Numeros_pares_e_impares.My.Resources.Resources.Culture">
 <summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.

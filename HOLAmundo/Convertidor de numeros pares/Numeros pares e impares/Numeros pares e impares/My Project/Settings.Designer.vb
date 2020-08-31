@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.Convertidor_semanal.My.MySettings
+        Friend ReadOnly Property Settings() As Global.Numeros_pares_e_impares.My.MySettings
             Get
-                Return Global.Convertidor_semanal.My.MySettings.Default
+                Return Global.Numeros_pares_e_impares.My.MySettings.Default
             End Get
         End Property
     End Module
